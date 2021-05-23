@@ -9,6 +9,7 @@
   ✨ Queremos transmitir um senso de fama, ao mesmo tempo em que estamos na terra.
 </p>
 
+
 <div align="center">
 <h3>Nossa Equipe</h3>
 <img src="https://user-images.githubusercontent.com/81815495/119245738-d5e17600-bb51-11eb-93d0-648edf7dbc39.png" width="160px">
