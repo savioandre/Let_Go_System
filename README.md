@@ -22,7 +22,23 @@
 ---
 
 <div>
- <h3>Seções do site</h3>
+ <h3>📁 Seções do site</h3>
+ <table>
+  <tr>
+   <td  width="120px" align="center">
+    <p>Início</p>
+   </td>
+   <td  width="120px" align="center">
+    <p>Loja</p>
+   </td>
+   <td  width="120px" align="center">
+    <p>Sobre Nós</p>
+   </td>
+   <td  width="120px" align="center">
+    <p>Blog</p>
+   </td>
+  </tr>
+ </table>
 </div>
 
 ---
