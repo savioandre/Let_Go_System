@@ -21,6 +21,12 @@
   
 ---
 
+<div>
+ <h3>Seções do site</h3>
+</div>
+
+---
+
 <footer>
   <h4 align="center">Leg Go System</h4>
 </footer>
