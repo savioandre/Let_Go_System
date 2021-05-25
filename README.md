@@ -21,7 +21,7 @@
   
 ---
 
-<div>
+<div align="center">
  <h3>📁 Seções do site</h3>
  <table>
   <tr>
